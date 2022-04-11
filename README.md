@@ -7,6 +7,7 @@ This is a simple, responsive html template for portfolios that can be adapted fo
 ## Previews
 
 [Preview of desktop view.](https://raw.githubusercontent.com/nessdocs/nessdocs-portfolio-html-template/main/desktop-preview.png)
+
 [Preview of mobile view.](https://raw.githubusercontent.com/nessdocs/nessdocs-portfolio-html-template/main/mobile-preview.png)
 
 ## Features
