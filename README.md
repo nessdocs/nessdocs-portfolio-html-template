@@ -2,7 +2,7 @@
 
 I originally built this for my technical writing portfolio, but I've decided to offer it as a forkable/downloadable template.
 
-This is a simple, responsive html template for portfolios that can be adapted for multiple uses. Portfolios that are image-heavy (photography, art, etc.) should probably look for a different template. This template will not focus on your artwork enough.
+This is a simple, responsive html template for portfolios that can be adapted for multiple uses. Portfolios that are image-heavy (photography, art, etc.) would probably look better with a different template. This template will not focus on your artwork enough.
 
 ## Previews
 
