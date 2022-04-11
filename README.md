@@ -18,7 +18,7 @@ This is a simple, responsive html template for portfolios that can be adapted fo
 
 ## Prerequisites
 
-* Some level of HTML knowledge would be best (if you don't have any, don't worry, it's not that hard to learn)
+* Some level of HTML / CSS knowledge would be best (if you don't have any, don't worry, it's not that hard to learn)
 * Github account *or* your own webhosting
 * A text editor like Visual Studio Code
 * An image editor if you want to create your own graphics (thumbnails, banners, etc.)
