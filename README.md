@@ -27,10 +27,6 @@ This is a simple, responsive html template for portfolios that can be adapted fo
 
 There's two main ways you can use this template:
 
-1. [Github Pages](https://pages.github.com/): The simplest way to get started on your online portfolio is to hit the *Use as template* button and name the repository to yourusername.github.io. More detailed instructions are included in the user guide. (Sorry, still working on that.)
+1. [Github Pages](https://pages.github.com/): The simplest way to get started on your online portfolio is to hit the *Use as template* button and name the repository to yourusername.github.io. More detailed instructions are included in the [Wiki](https://github.com/nessdocs/nessdocs-portfolio-html-template/wiki/How-to-Make-a-New-Repository-from-a-Template).
 
 2. Other Hosting: Download the latest release, edit it as needed, and then upload it to your hosting. (This is vastly simplified, but I'm assuming you know what you're doing if you're already paying for webhosting.)
-
-## Documentation
-
-I'm working on a user guide for this as a side project.
