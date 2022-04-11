@@ -7,8 +7,13 @@ This is a simple, responsive html template for portfolios that can be adapted fo
 ## Previews
 
 [Preview of desktop view.](https://raw.githubusercontent.com/nessdocs/nessdocs-portfolio-html-template/main/desktop-preview.png)
-
 [Preview of mobile view.](https://raw.githubusercontent.com/nessdocs/nessdocs-portfolio-html-template/main/mobile-preview.png)
+
+## Features
+
+* Responsive design that works on both desktop and mobile devices.
+* 22 different watercolor painting banner graphics to choose from.
+* Comes with a [default favicon](https://pixabay.com/vectors/flat-design-symbol-icon-www-2126884/) and [portfolio item thumbnail graphics](https://pixabay.com/collections/file-format-set-5790206/). 
 
 ## Prerequisites
 
@@ -23,7 +28,7 @@ There's two main ways you can use this template:
 
 1. [Github Pages](https://pages.github.com/): The simplest way to get started on your online portfolio is to fork this repository and then rename it to username.github.io. More detailed instructions are included in the user guide. (Sorry, still working on that.)
 
-2. Other Hosting: Download the latest release, edit it as needed, and then upload it. (This is vastly simplified, but I'm assuming you know what you're doing if you're already paying for webhosting.)
+2. Other Hosting: Download the latest release, edit it as needed, and then upload it to your hosting. (This is vastly simplified, but I'm assuming you know what you're doing if you're already paying for webhosting.)
 
 ## Documentation
 
